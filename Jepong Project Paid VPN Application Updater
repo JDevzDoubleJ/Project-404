@@ -1,39 +1,5 @@
-{"newVersion": "11-2002.22",
+{"newVersion": "11-2002.22.02",
 
  "apkUrl": "https://official.jepongdev.ml",
 
- "versionNotes":"Welcome, I'm Jepong Project Bot! We've got some big update please update now to use new features.
-
-This update is recommended for all users and improves the security!
-
-What's New? 
-
-• Improved stability 
-
-• Bug fixes  
-
-• Performance Improvements 
-
-• New Gestures   
-
-• Smooth UI Interface 
-
-• Watch movies on app 
-
-• Added Commands 
-
-• Added Help & Support 
-
-Version: 11-2002.22.02 
-
-JPPVPN UI: V2.4 Official 
-
-Security Update: December 23, 2022  
-
-Hardware: JPV_2002-22. 
- 
-Build Number: JVP112_04.S_0222 
-
-Kernel Version: 5.4.147-qgki-01414-gee7030c254e7 
-
-Baseband Version: Q_V1_P14,Q_V1_P14"}
+ "versionNotes":"Version: 11-2002.22.02"}
